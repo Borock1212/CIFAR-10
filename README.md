@@ -65,9 +65,8 @@ pip install tensorflow numpy scikit-learn matplotlib
 
 ## ✅ **Results**
 
-* The model achieves around **XX% accuracy** on the CIFAR-10 test set after training.
+* The model achieves around **50% accuracy** on the CIFAR-10 test set after training.
 
-*(Note: Replace XX% with your actual results)*
 
 ---
 
