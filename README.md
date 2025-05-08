@@ -58,7 +58,7 @@ pip install tensorflow numpy scikit-learn matplotlib
 
 * Input layer: 32x32x3 (flattened to 3072)
 * Hidden layer 1: 512 neurons, ReLU activation
-* Hidden layer 2: 265 neurons, ReLU activation
+* Hidden layer 2: 256 neurons, ReLU activation
 * Hidden layer 3: 128 neurons, ReLU activation
 * Hidden layer 4: 64 neurons, ReLU activation
 * Softmax activation (for multi-class classification)
