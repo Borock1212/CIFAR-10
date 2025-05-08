@@ -82,8 +82,8 @@ pip install tensorflow numpy scikit-learn matplotlib
 ## 👤 **Author**
 
 * **Name:** Alex Shevchenko
-* **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/alex-shevchenko-411510317)
-* **GitHub:** [Your GitHub](https://github.com/Borock1212)
+* **LinkedIn:** [Link](https://www.linkedin.com/in/alex-shevchenko-411510317)
+* **GitHub:** [Link](https://github.com/Borock1212)
 
 ---
 
