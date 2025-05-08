@@ -87,5 +87,3 @@ pip install tensorflow numpy scikit-learn matplotlib
 * **GitHub:** [Link](https://github.com/Borock1212)
 
 ---
-
-Happy Coding! 🚀
