@@ -6,7 +6,7 @@ This project implements a neural network from scratch using TensorFlow's low-lev
 
 ---
 
-## 📁 **Project Structure**
+## **Project Structure**
 
 ```
 project/
@@ -20,7 +20,7 @@ project/
 
 ---
 
-## 📦 **Dependencies**
+## **Dependencies**
 
 * TensorFlow
 * NumPy
@@ -35,7 +35,7 @@ pip install tensorflow numpy scikit-learn matplotlib
 
 ---
 
-## 🚀 **How to Run**
+## **How to Run**
 
 1. Clone the repository:
 
@@ -54,7 +54,7 @@ pip install tensorflow numpy scikit-learn matplotlib
 
 ---
 
-## 📊 **Model Architecture**
+## **Model Architecture**
 
 * Input layer: 32x32x3 (flattened to 3072)
 * Hidden layer 1: 512 neurons, ReLU activation
@@ -65,14 +65,14 @@ pip install tensorflow numpy scikit-learn matplotlib
 
 ---
 
-## ✅ **Results**
+## **Results**
 
 * The model achieves around **50% accuracy** on the CIFAR-10 test set after training.
 
 
 ---
 
-## 📌 **Future Improvements**
+## **Future Improvements**
 
 * Implement Data Augmentation for more robust training
 * Add Early Stopping to prevent overfitting
@@ -80,7 +80,7 @@ pip install tensorflow numpy scikit-learn matplotlib
 
 ---
 
-## 👤 **Author**
+## **Author**
 
 * **Name:** Alex Shevchenko
 * **LinkedIn:** [Link](https://www.linkedin.com/in/alex-shevchenko-411510317)
