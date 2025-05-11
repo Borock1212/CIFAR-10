@@ -40,7 +40,7 @@ pip install tensorflow numpy scikit-learn matplotlib
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/cifar10-classifier.git
+   git clone https://github.com/Borock1212/cifar10-classifier.git
    cd cifar10-classifier
    ```
 
